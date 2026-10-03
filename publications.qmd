@@ -4,7 +4,7 @@ title: Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=n778aCsAAAAJ&hl=en)
 
-<p class="publication-key"><sup>&#42;</sup> Indicates a primary author, in addition to the first-listed author.</p>
+<p class="publication-key"><sup>&#42;</sup> Indicates a primary author in addition to the first-listed author.</p>
 
 <nav class="publication-years" aria-label="Publication years"><a href="#year-2026">2026</a><a href="#year-2025">2025</a><a href="#year-2024">2024</a><a href="#year-2023">2023</a><a href="#year-2022">2022</a><a href="#year-2020">2020</a><a href="#year-2019">2019</a></nav>
 

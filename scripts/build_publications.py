@@ -5,7 +5,7 @@ root=Path(__file__).resolve().parents[1]
 rows=json.loads((root/'publications.json').read_text())
 out=['---\ntitle: Publications\n---\n',
      '[Google Scholar](https://scholar.google.com/citations?user=n778aCsAAAAJ&hl=en)\n',
-     '<p class="publication-key"><sup>&#42;</sup> Indicates a primary author, in addition to the first-listed author.</p>\n',
+     '<p class="publication-key"><sup>&#42;</sup> Indicates a primary author in addition to the first-listed author.</p>\n',
      '<nav class="publication-years" aria-label="Publication years">'+''.join(f'<a href="#year-{y}">{y}</a>' for y in sorted({r['year'] for r in rows},reverse=True))+'</nav>\n']
 bib=[]
 current=None
