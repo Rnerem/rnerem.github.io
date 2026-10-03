@@ -39,7 +39,7 @@ I work on neural algorithmic reasoning, studying how neural networks learn and u
 :::
 
 ::: {.section-top}
-## Research interest: Neural Algorithmic Reasoning
+## Research interest: neural algorithmic reasoning
 [Explore my research →](research.qmd)
 :::
 
