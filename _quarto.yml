@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - cv.qmd
+    - contact.qmd
+    - 404.qmd
+  pre-render:
+    - python3 scripts/build_publications.py
+  resources:
+    - assets/
+    - papers.bib
+website:
+  title: Robert Riley Nerem
+  description: "Riley Nerem — neural algorithmic reasoning, generalization on graphs, combinatorial optimization, and algorithmic alignment."
+  favicon: assets/favicon.svg
+  navbar:
+    background: light
+    title: Robert Riley Nerem
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  search: false
+  page-footer:
+    left: "Robert Riley Nerem · UC San Diego"
+    right:
+      - text: Email
+        href: mailto:riley.nerem@gmail.com
+      - text: Contact
+        href: contact.qmd
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    toc: false
+    anchor-sections: true
+    smooth-scroll: false
+    link-external-newwindow: false
+    lang: en
+    include-before-body: includes/skip-link.html

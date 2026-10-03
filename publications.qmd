@@ -1,0 +1,203 @@
+---
+title: Publications
+---
+
+[Google Scholar](https://scholar.google.com/citations?user=n778aCsAAAAJ&hl=en)
+
+<p class="publication-key"><sup>&#42;</sup> Indicates a primary author, in addition to the first-listed author.</p>
+
+<nav class="publication-years" aria-label="Publication years"><a href="#year-2026">2026</a><a href="#year-2025">2025</a><a href="#year-2024">2024</a><a href="#year-2023">2023</a><a href="#year-2022">2022</a><a href="#year-2020">2020</a><a href="#year-2019">2019</a></nav>
+
+## 2026 {#year-2026}
+
+<article class="publication" id="algorithms">
+<figure class="publication-figure">
+<a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/wittig26a/wittig26a.pdf#page=57" aria-label="View Which Algorithms Can Graph Neural Networks Learn?"><img src="assets/publications/algorithms.webp" alt="Small and large graphs map to nearby computation trees in a compact tree space, illustrating algorithmic generalization" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 5 · Computation trees &amp; generalization</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://proceedings.mlr.press/v306/wittig26a.html">Which Algorithms Can Graph Neural Networks Learn?</a></h3>
+<p class="publication-authors">Solveig Wittig<sup>&#42;</sup>, Antonis Vasileiou<sup>&#42;</sup>, <strong>Robert R. Nerem</strong><sup>&#42;</sup>, Timo Stoll, Floris Geerts, Yusu Wang, Christopher Morris.</p>
+<p class="publication-venue">ICML 2026 · Proceedings of Machine Learning Research 306, 135232–135307 <span class="publication-badge">Spotlight</span> <span class="publication-badge">Oral</span></p>
+<div class="publication-links"><a href="https://proceedings.mlr.press/v306/wittig26a.html">Paper</a> <a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/wittig26a/wittig26a.pdf">PDF</a> <a href="https://arxiv.org/abs/2602.13106">arXiv</a></div>
+</div></article>
+
+<article class="publication" id="shortest">
+<figure class="publication-figure">
+<a href="https://raw.githubusercontent.com/mlresearch/v336/main/assets/nerem26a/nerem26a.pdf#page=4" aria-label="View Graph Neural Networks Extrapolate Out-of-Distribution for Shortest Paths"><img src="assets/publications/shortest.webp" alt="A graph neural network repeatedly updates node features using adjacent nodes and edge weights" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · GNN layers</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://proceedings.mlr.press/v336/nerem26a.html">Graph Neural Networks Extrapolate Out-of-Distribution for Shortest Paths</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, Samantha Chen<sup>&#42;</sup>, Sanjoy Dasgupta, Yusu Wang.</p>
+<p class="publication-venue">COLT 2026 · Proceedings of Machine Learning Research 336, 5273–5331 </p>
+<div class="publication-links"><a href="https://proceedings.mlr.press/v336/nerem26a.html">Paper</a> <a href="https://raw.githubusercontent.com/mlresearch/v336/main/assets/nerem26a/nerem26a.pdf">PDF</a> <a href="https://arxiv.org/abs/2503.19173">arXiv</a></div>
+</div></article>
+
+<article class="publication" id="position">
+<figure class="publication-figure">
+<a href="https://openreview.net/pdf/84ef486207f242957c176f074962075b4a9bc89e.pdf" aria-label="View Neural Algorithmic Reasoning Must Explain When Neuralization Adds Value"><img src="assets/publications/position.svg" alt="Algorithmic structure flows through neuralization to a question about practical value" width="600" height="360" loading="lazy"></a>
+<figcaption>Conceptual schematic</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://openreview.net/forum?id=A4FI5tZRT4">Neural Algorithmic Reasoning Must Explain When Neuralization Adds Value</a></h3>
+<p class="publication-authors">Yu He, <strong>Robert R. Nerem</strong>, Timo Stoll, Semih Cantürk, Dobrik Georgiev, Chendi Qian, Solveig Wittig, Floris Geerts, Stefanie Jegelka, Ellen Vitercik, Yusu Wang, Nikolaos Karalias, Christopher Morris.</p>
+<p class="publication-venue">3rd AI for Math Workshop · ICML 2026 </p>
+<div class="publication-links"><a href="https://openreview.net/forum?id=A4FI5tZRT4">Paper</a> <a href="https://openreview.net/pdf/84ef486207f242957c176f074962075b4a9bc89e.pdf">PDF</a></div>
+</div></article>
+
+## 2025 {#year-2025}
+
+<article class="publication" id="permutations">
+<figure class="publication-figure">
+<a href="https://papers.nips.cc/paper_files/paper/2025/file/9840235bd522f0f067f306ddfd6d1ca1-Paper-Conference.pdf#page=21" aria-label="View Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations"><img src="assets/publications/permutations.webp" alt="Neural optimization pipeline using a score matrix, Birkhoff extension, and permutation rounding" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · Optimization pipeline</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://papers.nips.cc/paper_files/paper/2025/hash/9840235bd522f0f067f306ddfd6d1ca1-Abstract-Conference.html">Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, Zhishang Luo, Akbar Rafiey, Yusu Wang.</p>
+<p class="publication-venue">NeurIPS 2025 · Advances in Neural Information Processing Systems 38 </p>
+<div class="publication-links"><a href="https://papers.nips.cc/paper_files/paper/2025/hash/9840235bd522f0f067f306ddfd6d1ca1-Abstract-Conference.html">Paper</a> <a href="https://papers.nips.cc/paper_files/paper/2025/file/9840235bd522f0f067f306ddfd6d1ca1-Paper-Conference.pdf">PDF</a> <a href="https://arxiv.org/abs/2411.10707">arXiv</a></div>
+</div></article>
+
+## 2024 {#year-2024}
+
+<article class="publication" id="steiner">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/2312.10589#page=3" aria-label="View NN-Steiner: A Mixed Neural-Algorithmic Approach for the Rectilinear Steiner Minimum Tree Problem"><img src="assets/publications/steiner.webp" alt="Quadtree partition with portals and a portal-respecting rectilinear Steiner tree" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 2 · Quadtree &amp; Steiner tree</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1609/aaai.v38i12.29200">NN-Steiner: A Mixed Neural-Algorithmic Approach for the Rectilinear Steiner Minimum Tree Problem</a></h3>
+<p class="publication-authors">Andrew B. Kahng, <strong>Robert R. Nerem</strong>, Yusu Wang, Chien-Yi Yang.</p>
+<p class="publication-venue">AAAI 2024 · Proceedings of the AAAI Conference on Artificial Intelligence 38(12), 13022–13030 </p>
+<div class="publication-links"><a href="https://doi.org/10.1609/aaai.v38i12.29200">Paper</a> <a href="https://arxiv.org/pdf/2312.10589">PDF</a></div>
+</div></article>
+
+## 2023 {#year-2023}
+
+<article class="publication" id="bitcoin">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/2110.00878#page=8" aria-label="View Conditions for Advantageous Quantum Bitcoin Mining"><img src="assets/publications/bitcoin.webp" alt="State-transition graph of quantum Bitcoin mining outcomes" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · State-transition graph</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1016/j.bcra.2023.100141">Conditions for Advantageous Quantum Bitcoin Mining</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, Daya R. Gaur.</p>
+<p class="publication-venue">Blockchain: Research and Applications 4(3), 100141 </p>
+<div class="publication-links"><a href="https://doi.org/10.1016/j.bcra.2023.100141">Paper</a> <a href="https://arxiv.org/pdf/2110.00878">PDF</a></div>
+</div></article>
+
+## 2022 {#year-2022}
+
+<article class="publication" id="quantum">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/2111.10485" aria-label="View Tight Bound for Estimating Expectation Values from a System of Linear Equations"><img src="assets/publications/quantum.svg" alt="Quantum estimation of x dagger M x for a linear system Ax equals b, with query complexity theta of alpha over epsilon" width="600" height="360" loading="lazy"></a>
+<figcaption>Conceptual schematic</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1103/PhysRevResearch.4.023237">Tight Bound for Estimating Expectation Values from a System of Linear Equations</a></h3>
+<p class="publication-authors">Abhijeet Alase, <strong>Robert R. Nerem</strong>, Mohsen Bagherimehrab, Peter Høyer, Barry C. Sanders.</p>
+<p class="publication-venue">Physical Review Research 4(2), 023237 </p>
+<div class="publication-links"><a href="https://doi.org/10.1103/PhysRevResearch.4.023237">Paper</a> <a href="https://arxiv.org/pdf/2111.10485">PDF</a></div>
+</div></article>
+
+<article class="publication" id="genetic">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/2107.12352#page=2" aria-label="View Genetic Networks Encode Secrets of Their Past"><img src="assets/publications/genetic.webp" alt="A directed network before and after duplicating a vertex and its incident edges" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · Vertex duplication</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1016/j.jtbi.2022.111092">Genetic Networks Encode Secrets of Their Past</a></h3>
+<p class="publication-authors">Peter Crawford-Kahrl<sup>&#42;</sup>, <strong>Robert R. Nerem</strong><sup>&#42;</sup>, Bree Cummins, Tomas Gedeon.</p>
+<p class="publication-venue">Journal of Theoretical Biology 541, 111092 </p>
+<div class="publication-links"><a href="https://doi.org/10.1016/j.jtbi.2022.111092">Paper</a> <a href="https://arxiv.org/pdf/2107.12352">PDF</a></div>
+</div></article>
+
+<article class="publication" id="thesis">
+<figure class="publication-figure">
+<a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=n778aCsAAAAJ&amp;citation_for_view=n778aCsAAAAJ:W7OEmFMy1HYC" aria-label="View Optimization of Quantum Algorithms for Applications"><img src="assets/publications/thesis.svg" alt="Quantum circuit schematic representing search, estimation, and quantum algorithm applications" width="600" height="360" loading="lazy"></a>
+<figcaption>Conceptual schematic</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=n778aCsAAAAJ&amp;citation_for_view=n778aCsAAAAJ:W7OEmFMy1HYC">Optimization of Quantum Algorithms for Applications</a></h3>
+<p class="publication-authors"><strong>Robert Riley Nerem</strong>.</p>
+<p class="publication-venue">Master’s thesis · University of Calgary </p>
+<div class="publication-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=n778aCsAAAAJ&amp;citation_for_view=n778aCsAAAAJ:W7OEmFMy1HYC">Record</a></div>
+</div></article>
+
+## 2020 {#year-2020}
+
+<article class="publication" id="detector">
+<figure class="publication-figure">
+<a href="https://doi.org/10.1364/OPTICA.400751" aria-label="View Superconducting Nanowire Single-Photon Detectors with 98% System Detection Efficiency at 1550 nm"><img src="assets/publications/detector.webp" alt="Optical stack, device chip photograph, and scanning electron micrograph of the nanowire detector" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 2 · Detector architecture</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1364/OPTICA.400751">Superconducting Nanowire Single-Photon Detectors with 98% System Detection Efficiency at 1550 nm</a></h3>
+<p class="publication-authors">Dileep V. Reddy, <strong>Robert R. Nerem</strong>, Sae Woo Nam, Richard P. Mirin, Varun B. Verma.</p>
+<p class="publication-venue">Optica 7(12), 1649–1653 </p>
+<div class="publication-links"><a href="https://doi.org/10.1364/OPTICA.400751">Paper</a></div>
+</div></article>
+
+<article class="publication" id="malaria">
+<figure class="publication-figure">
+<a href="https://doi.org/10.1126/science.aba4357" aria-label="View An Intrinsic Oscillator Drives the Blood Stage Cycle of the Malaria Parasite Plasmodium falciparum"><img src="assets/publications/malaria.webp" alt="Polar plots showing phases of periodic gene expression across four malaria parasite strains" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 2 · Gene-expression phases</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1126/science.aba4357">An Intrinsic Oscillator Drives the Blood Stage Cycle of the Malaria Parasite Plasmodium falciparum</a></h3>
+<p class="publication-authors">Lauren M. Smith, Francis C. Motta, Garima Chopra, J. Kathleen Moch, <strong>Robert R. Nerem</strong>, Bree Cummins, Kimberly E. Roche, Christina M. Kelliher, Adam R. Leman, John Harer, Tomas Gedeon, Norman C. Waters, Steven B. Haase.</p>
+<p class="publication-venue">Science 368(6492), 754–759 </p>
+<div class="publication-links"><a href="https://doi.org/10.1126/science.aba4357">Paper</a></div>
+</div></article>
+
+<article class="publication" id="pickup">
+<figure class="publication-figure">
+<a href="https://doi.org/10.1119/1.5145417" aria-label="View Charged Particle Pickup Tube Detector Used in Experimental Applications and Classroom Demonstrations"><img src="assets/publications/pickup.webp" alt="Exploded computer model of the charged particle pickup detector showing its enclosure and electronics" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · Detector model</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1119/1.5145417">Charged Particle Pickup Tube Detector Used in Experimental Applications and Classroom Demonstrations</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, David James.</p>
+<p class="publication-venue">The Physics Teacher 58(3), 200–203 </p>
+<div class="publication-links"><a href="https://doi.org/10.1119/1.5145417">Paper</a></div>
+</div></article>
+
+<article class="publication" id="extremal">
+<figure class="publication-figure">
+<a href="https://doi.org/10.1007/s00285-020-01471-4" aria-label="View Using Extremal Events to Characterize Noisy Time Series"><img src="assets/publications/extremal.webp" alt="Two gene-expression time series and their Hasse diagrams at different uncertainty levels" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 2 · Time series &amp; partial orders</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1007/s00285-020-01471-4">Using Extremal Events to Characterize Noisy Time Series</a></h3>
+<p class="publication-authors">Eric Berry, Bree Cummins, <strong>Robert R. Nerem</strong>, Lauren M. Smith, Steven B. Haase, Tomas Gedeon.</p>
+<p class="publication-venue">Journal of Mathematical Biology 80, 1523–1557 </p>
+<div class="publication-links"><a href="https://doi.org/10.1007/s00285-020-01471-4">Paper</a></div>
+</div></article>
+
+## 2019 {#year-2019}
+
+<article class="publication" id="poset">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/1910.14638#page=11" aria-label="View A Poset Metric from the Directed Maximum Common Edge Subgraph"><img src="assets/publications/poset.webp" alt="Two directed graphs and their directed maximum common edge subgraph" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 4 · Common edge subgraph</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://arxiv.org/abs/1910.14638">A Poset Metric from the Directed Maximum Common Edge Subgraph</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, Peter Crawford-Kahrl, Bree Cummins, Tomas Gedeon.</p>
+<p class="publication-venue">Preprint · arXiv:1910.14638 (revised 2020) </p>
+<div class="publication-links"><a href="https://arxiv.org/abs/1910.14638">Paper</a> <a href="https://arxiv.org/pdf/1910.14638">PDF</a></div>
+</div></article>
+
+<article class="publication" id="cleo">
+<figure class="publication-figure">
+<a href="https://doi.org/10.1364/CLEO_QELS.2019.FF1A.3" aria-label="View Exceeding 95% System Efficiency Within the Telecom C-Band in Superconducting Nanowire Single Photon Detectors"><img src="assets/publications/cleo.svg" alt="An incident photon creates an electrical pulse in a superconducting nanowire detector" width="600" height="360" loading="lazy"></a>
+<figcaption>Conceptual schematic</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://doi.org/10.1364/CLEO_QELS.2019.FF1A.3">Exceeding 95% System Efficiency Within the Telecom C-Band in Superconducting Nanowire Single Photon Detectors</a></h3>
+<p class="publication-authors">Dileep V. Reddy, <strong>Robert R. Nerem</strong>, Adriana E. Lita, Sae Woo Nam, Richard P. Mirin, Varun B. Verma.</p>
+<p class="publication-venue">CLEO: QELS—Fundamental Science · FF1A.3 </p>
+<div class="publication-links"><a href="https://doi.org/10.1364/CLEO_QELS.2019.FF1A.3">Paper</a></div>
+</div></article>

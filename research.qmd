@@ -1,0 +1,33 @@
+---
+title: Research
+subtitle: Neural algorithmic reasoning.
+---
+
+I study how neural networks learn and use algorithmic structure. Three common topics in my work are generalization on graphs, discrete and combinatorial optimization, and algorithmic alignment.
+
+::: {.research-section #generalization}
+## Generalization on graphs
+
+Graphs are a natural setting for studying NAR because they offer a rich collection of simple but powerful algorithms, and many problems can be cast as graph problems. I study when graph neural networks learn these algorithms and generalize to larger or differently distributed graphs. Our [Bellman–Ford GNN work](publications.qmd#shortest) establishes conditions under which size generalization is guaranteed for the shortest-path problem. [Which Algorithms Can Graph Neural Networks Learn?](publications.qmd#algorithms) develops a broader framework, characterizing a large class of algorithms for which learnability and size generalization can be guaranteed.
+
+:::
+
+::: {.research-section #optimization}
+## Discrete & combinatorial optimization
+
+Combinatorial optimization is a particularly promising application of neural algorithmic reasoning. Classical algorithms still outperform neural combinatorial optimization in most settings, motivating neural models endowed with the strengths of traditional algorithms. Our [Birkhoff extension](publications.qmd#permutations) provides differentiable objectives over permutations with rounding guarantees. [NN-Steiner](publications.qmd#steiner) combines neural components with a classical approximation framework for the Steiner tree problem.
+
+:::
+
+::: {.research-section #alignment}
+## Algorithmic alignment
+
+Algorithmic alignment is one of neural algorithmic reasoning’s most powerful techniques. By designing neural architectures that are structurally similar to a target algorithm or algorithmic framework, we can create an inductive bias toward algorithmic behavior. This approach promotes size generalization, efficient computation, and the use of a problem’s mathematical structure. [NN-Steiner](publications.qmd#steiner) builds a neural model aligned with Arora’s approximation algorithm for Steiner trees. Our [Bellman–Ford GNN work](publications.qmd#shortest) uses the alignment between message-passing neural networks and the Bellman–Ford algorithm as a case study to analyze when algorithmic alignment yields provable benefits.
+
+:::
+
+## Earlier work and broader perspective
+
+My past work is in experimental physics, mathematical biology, and quantum algorithms. More broadly, I am interested in new paradigms in computing and how traditional algorithms can be combined with these paradigms to solve problems more effectively. I find applications such as biology, physics, and chip design essential for motivating research questions and understanding when these approaches are most useful.
+
+[All publications →](publications.qmd)

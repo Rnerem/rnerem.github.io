@@ -1,0 +1,18 @@
+---
+title: Contact
+subtitle: Get in touch.
+---
+
+For research questions or potential collaborations, email is the best way to reach me.
+
+[riley.nerem@gmail.com](mailto:riley.nerem@gmail.com){.contact-email}
+
+::: {.contact-details}
+**Robert Riley Nerem**<br>
+I go by Riley.
+
+Data Science · University of California San Diego
+:::
+
+
+[Google Scholar](https://scholar.google.com/citations?user=n778aCsAAAAJ&hl=en)

@@ -1,0 +1,26 @@
+---
+title: Curriculum vitae
+subtitle: Robert Riley Nerem
+---
+
+[Download CV (PDF)](assets/riley-nerem-cv.pdf){.button-link}
+
+[Updated August 5, 2026 · 3 pages]{.cv-date}
+
+## Research
+
+My research focuses on **neural algorithmic reasoning**, with common topics including generalization on graphs, discrete and combinatorial optimization, and algorithmic alignment for specific applications.
+
+## Education
+
+**PhD in Data Science**, in progress<br>
+University of California San Diego · 2022–present<br>
+Advisor · Yusu Wang
+
+**MSc in Physics**<br>
+University of Calgary · 2022
+
+**BSc in Physics**, summa cum laude<br>
+Montana State University · 2018
+
+[View all publications →](publications.qmd)

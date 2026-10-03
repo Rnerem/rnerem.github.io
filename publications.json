@@ -1,0 +1,311 @@
+[
+  {
+    "id": "algorithms",
+    "year": 2026,
+    "title": "Which Algorithms Can Graph Neural Networks Learn?",
+    "authors": [
+      "Solveig Wittig",
+      "Antonis Vasileiou",
+      "Robert R. Nerem",
+      "Timo Stoll",
+      "Floris Geerts",
+      "Yusu Wang",
+      "Christopher Morris"
+    ],
+    "venue": "ICML 2026 · Proceedings of Machine Learning Research 306, 135232–135307",
+    "url": "https://proceedings.mlr.press/v306/wittig26a.html",
+    "equal": [
+      0,
+      1,
+      2
+    ],
+    "pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/wittig26a/wittig26a.pdf",
+    "arxiv": "https://arxiv.org/abs/2602.13106",
+    "figure": "Fig. 5 · Computation trees & generalization",
+    "page": 57,
+    "alt": "Small and large graphs map to nearby computation trees in a compact tree space, illustrating algorithmic generalization",
+    "bibtype": "inproceedings",
+    "recognition": [
+      "Spotlight",
+      "Oral"
+    ]
+  },
+  {
+    "id": "shortest",
+    "year": 2026,
+    "title": "Graph Neural Networks Extrapolate Out-of-Distribution for Shortest Paths",
+    "authors": [
+      "Robert R. Nerem",
+      "Samantha Chen",
+      "Sanjoy Dasgupta",
+      "Yusu Wang"
+    ],
+    "venue": "COLT 2026 · Proceedings of Machine Learning Research 336, 5273–5331",
+    "url": "https://proceedings.mlr.press/v336/nerem26a.html",
+    "pdf": "https://raw.githubusercontent.com/mlresearch/v336/main/assets/nerem26a/nerem26a.pdf",
+    "arxiv": "https://arxiv.org/abs/2503.19173",
+    "figure": "Fig. 1 · GNN layers",
+    "page": 4,
+    "alt": "A graph neural network repeatedly updates node features using adjacent nodes and edge weights",
+    "bibtype": "inproceedings",
+    "equal": [
+      1
+    ]
+  },
+  {
+    "id": "position",
+    "year": 2026,
+    "title": "Neural Algorithmic Reasoning Must Explain When Neuralization Adds Value",
+    "authors": [
+      "Yu He",
+      "Robert R. Nerem",
+      "Timo Stoll",
+      "Semih Cantürk",
+      "Dobrik Georgiev",
+      "Chendi Qian",
+      "Solveig Wittig",
+      "Floris Geerts",
+      "Stefanie Jegelka",
+      "Ellen Vitercik",
+      "Yusu Wang",
+      "Nikolaos Karalias",
+      "Christopher Morris"
+    ],
+    "venue": "3rd AI for Math Workshop · ICML 2026",
+    "url": "https://openreview.net/forum?id=A4FI5tZRT4",
+    "pdf": "https://openreview.net/pdf/84ef486207f242957c176f074962075b4a9bc89e.pdf",
+    "figure": "Conceptual schematic",
+    "schematic": true,
+    "alt": "Algorithmic structure flows through neuralization to a question about practical value",
+    "bibtype": "inproceedings"
+  },
+  {
+    "id": "permutations",
+    "year": 2025,
+    "title": "Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations",
+    "authors": [
+      "Robert R. Nerem",
+      "Zhishang Luo",
+      "Akbar Rafiey",
+      "Yusu Wang"
+    ],
+    "venue": "NeurIPS 2025 · Advances in Neural Information Processing Systems 38",
+    "url": "https://papers.nips.cc/paper_files/paper/2025/hash/9840235bd522f0f067f306ddfd6d1ca1-Abstract-Conference.html",
+    "pdf": "https://papers.nips.cc/paper_files/paper/2025/file/9840235bd522f0f067f306ddfd6d1ca1-Paper-Conference.pdf",
+    "arxiv": "https://arxiv.org/abs/2411.10707",
+    "figure": "Fig. 1 · Optimization pipeline",
+    "page": 21,
+    "alt": "Neural optimization pipeline using a score matrix, Birkhoff extension, and permutation rounding",
+    "bibtype": "inproceedings",
+    "doi": "10.52202/085713-3535"
+  },
+  {
+    "id": "steiner",
+    "year": 2024,
+    "title": "NN-Steiner: A Mixed Neural-Algorithmic Approach for the Rectilinear Steiner Minimum Tree Problem",
+    "authors": [
+      "Andrew B. Kahng",
+      "Robert R. Nerem",
+      "Yusu Wang",
+      "Chien-Yi Yang"
+    ],
+    "venue": "AAAI 2024 · Proceedings of the AAAI Conference on Artificial Intelligence 38(12), 13022–13030",
+    "url": "https://doi.org/10.1609/aaai.v38i12.29200",
+    "pdf": "https://arxiv.org/pdf/2312.10589",
+    "figure": "Fig. 2 · Quadtree & Steiner tree",
+    "page": 3,
+    "alt": "Quadtree partition with portals and a portal-respecting rectilinear Steiner tree",
+    "bibtype": "inproceedings",
+    "doi": "10.1609/aaai.v38i12.29200"
+  },
+  {
+    "id": "bitcoin",
+    "year": 2023,
+    "title": "Conditions for Advantageous Quantum Bitcoin Mining",
+    "authors": [
+      "Robert R. Nerem",
+      "Daya R. Gaur"
+    ],
+    "venue": "Blockchain: Research and Applications 4(3), 100141",
+    "url": "https://doi.org/10.1016/j.bcra.2023.100141",
+    "pdf": "https://arxiv.org/pdf/2110.00878",
+    "figure": "Fig. 1 · State-transition graph",
+    "page": 8,
+    "alt": "State-transition graph of quantum Bitcoin mining outcomes",
+    "bibtype": "article",
+    "doi": "10.1016/j.bcra.2023.100141"
+  },
+  {
+    "id": "quantum",
+    "year": 2022,
+    "title": "Tight Bound for Estimating Expectation Values from a System of Linear Equations",
+    "authors": [
+      "Abhijeet Alase",
+      "Robert R. Nerem",
+      "Mohsen Bagherimehrab",
+      "Peter Høyer",
+      "Barry C. Sanders"
+    ],
+    "venue": "Physical Review Research 4(2), 023237",
+    "url": "https://doi.org/10.1103/PhysRevResearch.4.023237",
+    "pdf": "https://arxiv.org/pdf/2111.10485",
+    "figure": "Conceptual schematic",
+    "schematic": true,
+    "alt": "Quantum estimation of x dagger M x for a linear system Ax equals b, with query complexity theta of alpha over epsilon",
+    "bibtype": "article",
+    "doi": "10.1103/PhysRevResearch.4.023237"
+  },
+  {
+    "id": "genetic",
+    "year": 2022,
+    "title": "Genetic Networks Encode Secrets of Their Past",
+    "authors": [
+      "Peter Crawford-Kahrl",
+      "Robert R. Nerem",
+      "Bree Cummins",
+      "Tomas Gedeon"
+    ],
+    "venue": "Journal of Theoretical Biology 541, 111092",
+    "url": "https://doi.org/10.1016/j.jtbi.2022.111092",
+    "equal": [
+      0,
+      1
+    ],
+    "pdf": "https://arxiv.org/pdf/2107.12352",
+    "figure": "Fig. 1 · Vertex duplication",
+    "page": 2,
+    "alt": "A directed network before and after duplicating a vertex and its incident edges",
+    "bibtype": "article",
+    "doi": "10.1016/j.jtbi.2022.111092"
+  },
+  {
+    "id": "thesis",
+    "year": 2022,
+    "title": "Optimization of Quantum Algorithms for Applications",
+    "authors": [
+      "Robert Riley Nerem"
+    ],
+    "venue": "Master’s thesis · University of Calgary",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n778aCsAAAAJ&citation_for_view=n778aCsAAAAJ:W7OEmFMy1HYC",
+    "figure": "Conceptual schematic",
+    "schematic": true,
+    "alt": "Quantum circuit schematic representing search, estimation, and quantum algorithm applications",
+    "bibtype": "mastersthesis"
+  },
+  {
+    "id": "detector",
+    "year": 2020,
+    "title": "Superconducting Nanowire Single-Photon Detectors with 98% System Detection Efficiency at 1550 nm",
+    "authors": [
+      "Dileep V. Reddy",
+      "Robert R. Nerem",
+      "Sae Woo Nam",
+      "Richard P. Mirin",
+      "Varun B. Verma"
+    ],
+    "venue": "Optica 7(12), 1649–1653",
+    "url": "https://doi.org/10.1364/OPTICA.400751",
+    "figure": "Fig. 2 · Detector architecture",
+    "alt": "Optical stack, device chip photograph, and scanning electron micrograph of the nanowire detector",
+    "bibtype": "article",
+    "doi": "10.1364/OPTICA.400751"
+  },
+  {
+    "id": "malaria",
+    "year": 2020,
+    "title": "An Intrinsic Oscillator Drives the Blood Stage Cycle of the Malaria Parasite Plasmodium falciparum",
+    "authors": [
+      "Lauren M. Smith",
+      "Francis C. Motta",
+      "Garima Chopra",
+      "J. Kathleen Moch",
+      "Robert R. Nerem",
+      "Bree Cummins",
+      "Kimberly E. Roche",
+      "Christina M. Kelliher",
+      "Adam R. Leman",
+      "John Harer",
+      "Tomas Gedeon",
+      "Norman C. Waters",
+      "Steven B. Haase"
+    ],
+    "venue": "Science 368(6492), 754–759",
+    "url": "https://doi.org/10.1126/science.aba4357",
+    "figure": "Fig. 2 · Gene-expression phases",
+    "alt": "Polar plots showing phases of periodic gene expression across four malaria parasite strains",
+    "bibtype": "article",
+    "doi": "10.1126/science.aba4357"
+  },
+  {
+    "id": "pickup",
+    "year": 2020,
+    "title": "Charged Particle Pickup Tube Detector Used in Experimental Applications and Classroom Demonstrations",
+    "authors": [
+      "Robert R. Nerem",
+      "David James"
+    ],
+    "venue": "The Physics Teacher 58(3), 200–203",
+    "url": "https://doi.org/10.1119/1.5145417",
+    "figure": "Fig. 1 · Detector model",
+    "alt": "Exploded computer model of the charged particle pickup detector showing its enclosure and electronics",
+    "bibtype": "article",
+    "doi": "10.1119/1.5145417"
+  },
+  {
+    "id": "extremal",
+    "year": 2020,
+    "title": "Using Extremal Events to Characterize Noisy Time Series",
+    "authors": [
+      "Eric Berry",
+      "Bree Cummins",
+      "Robert R. Nerem",
+      "Lauren M. Smith",
+      "Steven B. Haase",
+      "Tomas Gedeon"
+    ],
+    "venue": "Journal of Mathematical Biology 80, 1523–1557",
+    "url": "https://doi.org/10.1007/s00285-020-01471-4",
+    "figure": "Fig. 2 · Time series & partial orders",
+    "alt": "Two gene-expression time series and their Hasse diagrams at different uncertainty levels",
+    "bibtype": "article",
+    "doi": "10.1007/s00285-020-01471-4"
+  },
+  {
+    "id": "poset",
+    "year": 2019,
+    "title": "A Poset Metric from the Directed Maximum Common Edge Subgraph",
+    "authors": [
+      "Robert R. Nerem",
+      "Peter Crawford-Kahrl",
+      "Bree Cummins",
+      "Tomas Gedeon"
+    ],
+    "venue": "Preprint · arXiv:1910.14638 (revised 2020)",
+    "url": "https://arxiv.org/abs/1910.14638",
+    "pdf": "https://arxiv.org/pdf/1910.14638",
+    "figure": "Fig. 4 · Common edge subgraph",
+    "page": 11,
+    "alt": "Two directed graphs and their directed maximum common edge subgraph",
+    "bibtype": "misc"
+  },
+  {
+    "id": "cleo",
+    "year": 2019,
+    "title": "Exceeding 95% System Efficiency Within the Telecom C-Band in Superconducting Nanowire Single Photon Detectors",
+    "authors": [
+      "Dileep V. Reddy",
+      "Robert R. Nerem",
+      "Adriana E. Lita",
+      "Sae Woo Nam",
+      "Richard P. Mirin",
+      "Varun B. Verma"
+    ],
+    "venue": "CLEO: QELS—Fundamental Science · FF1A.3",
+    "url": "https://doi.org/10.1364/CLEO_QELS.2019.FF1A.3",
+    "figure": "Conceptual schematic",
+    "schematic": true,
+    "alt": "An incident photon creates an electrical pulse in a superconducting nanowire detector",
+    "bibtype": "inproceedings",
+    "doi": "10.1364/CLEO_QELS.2019.FF1A.3"
+  }
+]

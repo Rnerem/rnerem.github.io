@@ -1,0 +1,118 @@
+---
+title: Riley Nerem
+pagetitle: Riley Nerem — Neural Algorithmic Reasoning
+title-block-banner: false
+format:
+  html:
+    include-in-header:
+      text: '<style>#title-block-header { display: none; }</style>'
+---
+
+::: {.hero}
+::: {.hero-copy}
+::: {.eyebrow}
+Neural algorithmic reasoning
+:::
+
+# Robert Riley Nerem {.hero-title}
+
+::: {.affiliation}
+PhD student in Data Science · UC San Diego
+:::
+
+::: {.bio}
+I work on neural algorithmic reasoning, studying how neural networks learn and use algorithmic structure. My research focuses on generalization on graphs, discrete and combinatorial optimization, and designing networks for specific applications with an algorithmic inductive bias.
+
+:::
+
+::: {.hero-links}
+[Research](research.qmd) [Publications](publications.qmd) [Google Scholar](https://scholar.google.com/citations?user=n778aCsAAAAJ&hl=en) [Email](mailto:riley.nerem@gmail.com)
+:::
+:::
+
+<figure class="portrait">
+<img src="assets/portrait.jpg" alt="Portrait of Riley Nerem" width="260" height="328" fetchpriority="high">
+<figcaption>Robert Riley Nerem<br>I go by Riley.</figcaption>
+</figure>
+:::
+
+::: {.section-top}
+## Research interests
+[Explore my research →](research.qmd)
+:::
+
+::: {.research-grid}
+::: {}
+[01]{.number}
+
+### Generalization on graphs
+
+Understanding when neural networks generalize to larger graphs and under distribution shifts.
+
+:::
+::: {}
+[02]{.number}
+
+### Combinatorial optimization
+
+Developing learning methods for optimization over combinatorial structures such as graphs, permutations, and trees.
+
+:::
+::: {}
+[03]{.number}
+
+### Algorithmic alignment
+
+Designing neural architectures for specific applications with an inductive bias toward algorithmic behavior.
+
+:::
+:::
+
+::: {.section-top}
+## Selected work
+[All publications →](publications.qmd)
+:::
+
+::: {.paper}
+::: {.paper-meta}
+ICML 2026<br>Spotlight · Oral
+:::
+::: {}
+### [Which Algorithms Can Graph Neural Networks Learn?](publications.qmd#algorithms)
+
+[Paper & authors →](publications.qmd#algorithms)
+:::
+:::
+
+::: {.paper}
+::: {.paper-meta}
+COLT 2026
+:::
+::: {}
+### [Graph Neural Networks Extrapolate Out-of-Distribution for Shortest Paths](publications.qmd#shortest)
+
+[Paper & authors →](publications.qmd#shortest)
+:::
+:::
+
+::: {.paper}
+::: {.paper-meta}
+NeurIPS 2025
+:::
+::: {}
+### [Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations](publications.qmd#permutations)
+
+[Paper & authors →](publications.qmd#permutations)
+:::
+:::
+
+::: {.paper}
+::: {.paper-meta}
+AAAI 2024
+:::
+::: {}
+### [NN-Steiner: A Mixed Neural-Algorithmic Approach for the Rectilinear Steiner Minimum Tree Problem](publications.qmd#steiner)
+
+[Paper & authors →](publications.qmd#steiner)
+:::
+:::

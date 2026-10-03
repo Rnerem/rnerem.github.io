@@ -1,0 +1,8 @@
+---
+title: Page not found
+search: false
+---
+
+The page you requested is unavailable. Use the navigation above to find my research, publications, or contact information.
+
+[Return home](index.qmd)
