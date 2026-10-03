@@ -23,6 +23,8 @@ PhD student in Data Science · UC San Diego
 ::: {.bio}
 I work on neural algorithmic reasoning, studying how neural networks learn and use algorithmic structure. My research focuses on generalization on graphs, discrete and combinatorial optimization, and designing neural networks for specific applications with an algorithmic inductive bias.
 
+**I am graduating soon and currently looking for research-focused opportunities starting Fall 2027!**
+
 :::
 
 ::: {.hero-links}
