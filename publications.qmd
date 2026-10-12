@@ -10,6 +10,30 @@ title: Publications
 
 ## 2026 {#year-2026}
 
+<article class="publication" id="random-features">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/2610.12809#page=3" aria-label="View The Expressive Power of Random-Feature MPNNs Across Graph Sizes"><img src="assets/publications/random-features.webp" alt="Random node features are quantized to a finite palette with a uniform bound on expected output error" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · Random features &amp; quantization</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://arxiv.org/abs/2610.12809">The Expressive Power of Random-Feature MPNNs Across Graph Sizes</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, Mitchell Black, Antonis Vasileiou, Christopher Morris, Yusu Wang.</p>
+<p class="publication-venue">Preprint · arXiv 2610.12809 </p>
+<div class="publication-links"><a href="https://arxiv.org/abs/2610.12809">Paper</a> <a href="https://arxiv.org/pdf/2610.12809">PDF</a></div>
+</div></article>
+
+<article class="publication" id="nn-linkage">
+<figure class="publication-figure">
+<a href="https://arxiv.org/pdf/2610.07271#page=3" aria-label="View Algorithmically Aligned Neural Agglomerative Tree Construction"><img src="assets/publications/nn-linkage.webp" alt="NN-linkage iteratively merges clusters and updates learned representations to construct a hierarchical tree" width="600" height="360" loading="lazy"></a>
+<figcaption>Fig. 1 · NN-linkage architecture</figcaption>
+</figure>
+<div class="publication-body">
+<h3><a href="https://arxiv.org/abs/2610.07271">Algorithmically Aligned Neural Agglomerative Tree Construction</a></h3>
+<p class="publication-authors"><strong>Robert R. Nerem</strong>, Pranav Singh, Cheyenne Ward, Yusu Wang.</p>
+<p class="publication-venue">Preprint · arXiv 2610.07271 </p>
+<div class="publication-links"><a href="https://arxiv.org/abs/2610.07271">Paper</a> <a href="https://arxiv.org/pdf/2610.07271">PDF</a></div>
+</div></article>
+
 <article class="publication" id="algorithms">
 <figure class="publication-figure">
 <a href="https://raw.githubusercontent.com/mlresearch/v306/main/assets/wittig26a/wittig26a.pdf#page=57" aria-label="View Which Algorithms Can Graph Neural Networks Learn?"><img src="assets/publications/algorithms.webp" alt="Small and large graphs map to nearby computation trees in a compact tree space, illustrating algorithmic generalization" width="600" height="360" loading="lazy"></a>

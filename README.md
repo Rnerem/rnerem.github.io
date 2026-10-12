@@ -28,7 +28,7 @@ Then open http://127.0.0.1:8000. Python 3 also runs the optional local server an
 | --- | --- |
 | `index.qmd` | Bio, portrait, research overview, selected papers |
 | `research.qmd` | Common topics in neural algorithmic reasoning |
-| `publications.json` | Edit all 15 publication records, author markers, and figure captions here |
+| `publications.json` | Edit all publication records, author markers, and figure captions here |
 | `publications.qmd` | Generated single-page bibliography; rebuilt automatically before rendering |
 | `papers.bib` | Downloadable citations generated from `publications.json` |
 | `cv.qmd` | August 2026 CV download and education summary |
@@ -39,7 +39,7 @@ Then open http://127.0.0.1:8000. Python 3 also runs the optional local server an
 | `CONTENT_REVIEW.md` | Editorial items to verify before publication |
 | `SOURCES.md` | Content and portrait provenance |
 
-The publications page includes all 15 entries supplied by Riley, with publication venues reconciled against primary records and the current CV. Edit `publications.json`, then run `quarto render`; the pre-render script updates both the page and citations. `equal` contains zero-based author indices for the primary-author asterisks requested by Riley. Figures are in `assets/publications/`; captions distinguish extracted paper figures from original conceptual schematics. Figure provenance is documented in `SOURCES.md`.
+The publications page includes the supplied publication entries and the October 2026 arXiv preprints, with publication venues reconciled against primary records and the current CV. Edit `publications.json`, then run `quarto render`; the pre-render script updates both the page and citations. `equal` contains zero-based author indices for the primary-author asterisks requested by Riley. Figures are in `assets/publications/`; captions distinguish extracted paper figures from original conceptual schematics. Figure provenance is documented in `SOURCES.md`.
 
 ## Publish to a temporary GitHub Pages URL when ready
 

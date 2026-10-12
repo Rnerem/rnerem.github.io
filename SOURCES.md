@@ -53,3 +53,12 @@ Extracted thumbnails preserve the original figure panels and plotted data; only 
 Contribution notes were checked on the ICML PDF's first page and the genetic-networks paper's first page. Stars identifying corresponding authors or main senior contributors elsewhere were not converted into equal-contribution claims.
 
 The Spotlight and Oral designations for Which Algorithms Can Graph Neural Networks Learn? were supplied by Riley. Its thumbnail now uses the appendix computation-tree illustration, Figure 5.
+
+## October 2026 preprints
+
+Checked October 11, 2026 against the arXiv records and published PDFs.
+
+- The Expressive Power of Random-Feature MPNNs Across Graph Sizes — https://arxiv.org/abs/2610.12809. Authors and order follow the arXiv record. `random-features.webp` is Figure 1 on PDF page 3, showing the random-feature quantization framework. Mitchell Black’s asterisk on the PDF denotes an affiliation note, not primary authorship, and is not reproduced as an author-contribution marker.
+- Algorithmically Aligned Neural Agglomerative Tree Construction — https://arxiv.org/abs/2610.07271. Authors and order follow the arXiv record. `nn-linkage.webp` is Figure 1 on PDF page 3, showing the NN-linkage architecture. No contribution markers are added.
+
+Both entries are labeled as preprints and appear in the homepage’s Recent publications section. Thumbnails are cropped directly from the paper figures.

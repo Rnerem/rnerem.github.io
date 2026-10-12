@@ -4,7 +4,7 @@ The site now frames current research around neural algorithmic reasoning, with t
 
 ## Publications
 
-All 15 supplied entries appear on one chronological page. Primary records establish ICML 2026 for Which Algorithms Can Graph Neural Networks Learn?, COLT 2026 for the shortest-path paper, and NeurIPS 2025 for the permutation paper. The NeurIPS conference year is used instead of the Scholar export's 2026 indexing date. The pickup-detector article uses the publisher's page range 200–203.
+All 17 entries appear on one chronological page. Primary records establish ICML 2026 for Which Algorithms Can Graph Neural Networks Learn?, COLT 2026 for the shortest-path paper, and NeurIPS 2025 for the permutation paper. The NeurIPS conference year is used instead of the Scholar export's 2026 indexing date. The pickup-detector article uses the publisher's page range 200–203.
 
 Asterisks indicate primary authors in addition to the first-listed author, following Riley’s requested convention. Samantha Chen is marked on the shortest-path paper. Riley's name is bold throughout.
 

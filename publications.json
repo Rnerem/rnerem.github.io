@@ -1,5 +1,44 @@
 [
   {
+    "id": "random-features",
+    "year": 2026,
+    "title": "The Expressive Power of Random-Feature MPNNs Across Graph Sizes",
+    "authors": [
+      "Robert R. Nerem",
+      "Mitchell Black",
+      "Antonis Vasileiou",
+      "Christopher Morris",
+      "Yusu Wang"
+    ],
+    "venue": "Preprint · arXiv 2610.12809",
+    "url": "https://arxiv.org/abs/2610.12809",
+    "pdf": "https://arxiv.org/pdf/2610.12809",
+    "doi": "10.48550/arXiv.2610.12809",
+    "figure": "Fig. 1 · Random features & quantization",
+    "page": 3,
+    "alt": "Random node features are quantized to a finite palette with a uniform bound on expected output error",
+    "bibtype": "misc"
+  },
+  {
+    "id": "nn-linkage",
+    "year": 2026,
+    "title": "Algorithmically Aligned Neural Agglomerative Tree Construction",
+    "authors": [
+      "Robert R. Nerem",
+      "Pranav Singh",
+      "Cheyenne Ward",
+      "Yusu Wang"
+    ],
+    "venue": "Preprint · arXiv 2610.07271",
+    "url": "https://arxiv.org/abs/2610.07271",
+    "pdf": "https://arxiv.org/pdf/2610.07271",
+    "doi": "10.48550/arXiv.2610.07271",
+    "figure": "Fig. 1 · NN-linkage architecture",
+    "page": 3,
+    "alt": "NN-linkage iteratively merges clusters and updates learned representations to construct a hierarchical tree",
+    "bibtype": "misc"
+  },
+  {
     "id": "algorithms",
     "year": 2026,
     "title": "Which Algorithms Can Graph Neural Networks Learn?",

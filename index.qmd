@@ -118,3 +118,29 @@ AAAI 2024
 [Paper & authors →](publications.qmd#steiner)
 :::
 :::
+
+::: {.section-top}
+## Recent publications {#recent-publications}
+:::
+
+::: {.paper}
+::: {.paper-meta}
+Preprint · 2026
+:::
+::: {}
+### [The Expressive Power of Random-Feature MPNNs Across Graph Sizes](publications.qmd#random-features)
+
+[Paper & authors →](publications.qmd#random-features)
+:::
+:::
+
+::: {.paper}
+::: {.paper-meta}
+Preprint · 2026
+:::
+::: {}
+### [Algorithmically Aligned Neural Agglomerative Tree Construction](publications.qmd#nn-linkage)
+
+[Paper & authors →](publications.qmd#nn-linkage)
+:::
+:::
