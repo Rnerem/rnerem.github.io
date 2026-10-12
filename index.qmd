@@ -71,6 +71,32 @@ Designing neural architectures for specific applications with an inductive bias 
 :::
 
 ::: {.section-top}
+## Recent publications {#recent-publications}
+:::
+
+::: {.paper}
+::: {.paper-meta}
+Preprint · 2026
+:::
+::: {}
+### [The Expressive Power of Random-Feature MPNNs Across Graph Sizes](publications.qmd#random-features)
+
+[Paper & authors →](publications.qmd#random-features)
+:::
+:::
+
+::: {.paper}
+::: {.paper-meta}
+Preprint · 2026
+:::
+::: {}
+### [Algorithmically Aligned Neural Agglomerative Tree Construction](publications.qmd#nn-linkage)
+
+[Paper & authors →](publications.qmd#nn-linkage)
+:::
+:::
+
+::: {.section-top}
 ## Selected work
 [All publications →](publications.qmd)
 :::
@@ -116,31 +142,5 @@ AAAI 2024
 ### [NN-Steiner: A Mixed Neural-Algorithmic Approach for the Rectilinear Steiner Minimum Tree Problem](publications.qmd#steiner)
 
 [Paper & authors →](publications.qmd#steiner)
-:::
-:::
-
-::: {.section-top}
-## Recent publications {#recent-publications}
-:::
-
-::: {.paper}
-::: {.paper-meta}
-Preprint · 2026
-:::
-::: {}
-### [The Expressive Power of Random-Feature MPNNs Across Graph Sizes](publications.qmd#random-features)
-
-[Paper & authors →](publications.qmd#random-features)
-:::
-:::
-
-::: {.paper}
-::: {.paper-meta}
-Preprint · 2026
-:::
-::: {}
-### [Algorithmically Aligned Neural Agglomerative Tree Construction](publications.qmd#nn-linkage)
-
-[Paper & authors →](publications.qmd#nn-linkage)
 :::
 :::
