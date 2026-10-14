@@ -5,7 +5,7 @@ subtitle: Robert Riley Nerem
 
 [Download CV (PDF)](assets/riley-nerem-cv.pdf){.button-link}
 
-[Updated August 5, 2026 · 3 pages]{.cv-date}
+[Updated October 14, 2026 · 3 pages]{.cv-date}
 
 ## Research
 

@@ -31,8 +31,8 @@ Then open http://127.0.0.1:8000. Python 3 also runs the optional local server an
 | `publications.json` | Edit all publication records, author markers, and figure captions here |
 | `publications.qmd` | Generated single-page bibliography; rebuilt automatically before rendering |
 | `papers.bib` | Downloadable citations generated from `publications.json` |
-| `cv.qmd` | August 2026 CV download and education summary |
-| `assets/riley-nerem-cv.pdf` | Current 3-page CV copied from the matching local LaTeX project |
+| `cv.qmd` | October 2026 CV download and education summary |
+| `assets/riley-nerem-cv.pdf` | Updated 3-page CV compiled from the local LaTeX source |
 | `contact.qmd` | Public email and verified Google Scholar profile |
 | `theme.scss`, `styles.css` | Colors, typography, spacing, responsive layout |
 | `_quarto.yml` | Navigation and build configuration |

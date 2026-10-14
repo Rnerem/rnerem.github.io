@@ -12,7 +12,7 @@ The thesis entry was verified against the title page of Riley's local final thes
 
 ## CV
 
-The downloadable CV is the existing three-page PDF paired with CV.tex in the local Resume folder, both modified August 5, 2026. Its text and layout are preserved. Copies of CV.tex and res.cls are included separately in the handoff's cv-source folder. The website bibliography incorporates later checks and is more complete than that CV; the original CV itself has not been rewritten.
+The downloadable CV was revised October 14, 2026 and remains three pages. It includes all 16 papers listed on the website, including the two new arXiv preprints and the workshop contribution. Riley's name is bold throughout, primary-author marks follow the website convention, and the ICML Spotlight and Oral distinctions are included. Citation details were corrected, a short research summary was added, and experience descriptions were reduced to one or two lines per role. The MSc thesis remains listed on the website only. The original CV.tex and CV.pdf in the local Resume folder are updated; copies of CV.tex and res.cls are included in the handoff's cv-source folder.
 
 ## Optional future additions
 

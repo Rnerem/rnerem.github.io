@@ -28,7 +28,7 @@ The bio is newly written from the user's stated focus. Research descriptions are
 
 ## Expanded bibliography and figure provenance
 
-The 15 supplied Scholar entries are stored in publications.json. Every entry links to its primary publication record or, for the thesis, its supplied Scholar record. The current CV was supplied by the matching local LaTeX and PDF files dated August 5, 2026. The existing PDF was copied without modification. The thesis title was verified in the author’s final thesis PDF.
+The 15 supplied Scholar entries are stored in publications.json. Every entry links to its primary publication record or, for the thesis, its supplied Scholar record. The original CV was supplied by matching local LaTeX and PDF files dated August 5, 2026. It was revised and recompiled October 14, 2026 to add missing papers, presentation distinctions, citation corrections, a research summary, and concise experience descriptions. The original source and PDF and the website download now contain this revision. The thesis title was verified in the author’s final thesis PDF.
 
 | Asset | Figure source |
 | --- | --- |
@@ -62,3 +62,7 @@ Checked October 11, 2026 against the arXiv records and published PDFs.
 - Algorithmically Aligned Neural Agglomerative Tree Construction — https://arxiv.org/abs/2610.07271. Authors and order follow the arXiv record. `nn-linkage.webp` is Figure 1 on PDF page 3, showing the NN-linkage architecture. No contribution markers are added.
 
 Both entries are labeled as preprints and appear in the homepage’s Recent publications section. Thumbnails are cropped directly from the paper figures.
+
+## October 14, 2026 CV revision
+
+The Science article uses the full 13-author list from its publisher/Crossref record (https://doi.org/10.1126/science.aba4357). The Physics Teacher article uses pages 200–203 (https://doi.org/10.1119/1.5145417). NN-Steiner uses volume 38(12), pages 13022–13030. Conference venues, preprint metadata, author order, and primary-author marks match the verified website bibliography. Spotlight and Oral remain the distinctions supplied by Riley. Experience descriptions condense the existing local CV, with the PhD entry updated to reflect the papers listed here.
