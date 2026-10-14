@@ -3,13 +3,13 @@ title: Curriculum vitae
 subtitle: Robert Riley Nerem
 ---
 
-[Download CV (PDF)](assets/riley-nerem-cv.pdf){.button-link}
+[Download CV (PDF)](assets/riley-nerem-cv.pdf?v=0e4614b18444){.button-link}
 
 [Updated October 14, 2026 · 3 pages]{.cv-date}
 
 ## Research
 
-My research focuses on **neural algorithmic reasoning**, with common topics including generalization on graphs, discrete and combinatorial optimization, and algorithmic alignment for specific applications.
+My research in **neural algorithmic reasoning** seeks to understand and develop algorithmic capabilities in machine learning. I study when neural networks learn algorithms and generalize across graph sizes and distributions. I combine theoretical analysis with algorithmic alignment to design learning methods for combinatorial optimization, motivated by applications in biology and chip design.
 
 ## Education
 
