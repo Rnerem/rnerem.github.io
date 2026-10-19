@@ -33,7 +33,7 @@ I work on neural algorithmic reasoning, studying how neural networks learn and u
 :::
 
 <figure class="portrait">
-<img src="assets/portrait.jpg" alt="Portrait of Riley Nerem" width="260" height="328" fetchpriority="high">
+<img src="assets/portrait-preview.png" alt="Portrait of Riley Nerem" width="260" height="328" fetchpriority="high">
 <figcaption>Robert Riley Nerem<br>I go by Riley.</figcaption>
 </figure>
 :::
